@@ -1,0 +1,95 @@
+Reset default browser styles
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* Set a smooth scrolling behavior */
+/* html {
+  scroll-behavior: smooth;
+} */
+
+/* Apply a base font and background */
+/* body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  background-color: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+} */
+
+/* :root {
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--primary: #AC8C66;
+    --wp--preset--font-family--primary: "Barlow", sans-serif;
+    --wp--preset--font-family--heading: "Teko", sans-serif;
+}
+
+body {
+    font-family: var(--wp--preset--font-family--primary);
+    font-size: 15px;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+    font-family: var(--wp--preset--font-family--heading);
+    color: var(--wp--preset--color--black);
+    font-weight: normal;
+    margin: 0 0 20px 0;
+}
+
+h1, .h1 { font-size: 52px; line-height: 1.2em; }
+h2, .h2 { font-size: 50px; line-height: 47px; letter-spacing: 0.5px; }
+h3, .h3 { font-size: 33px; line-height: 1.2em; letter-spacing: 0.33px; }
+h4, .h4 { font-size: 27px; line-height: 1.2em; letter-spacing: 0.28px; }
+h5, .h5 { font-size: 21px; line-height: 1.2em; }
+h6, .h6 { 
+    font-size: 12px; 
+    font-weight: 600; 
+    text-transform: uppercase; 
+    letter-spacing: 1.3px;
+    color: var(--wp--preset--color--primary);
+}
+
+a {
+    color: var(--wp--preset--color--primary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+@media (max-width: 1024px) {
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        max-width: 767px;
+    }
+} */
+
+/* hero css */
+/* Full-Width Hero Section */
+/* .container-fluid {
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+} */
